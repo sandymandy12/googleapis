@@ -1,5 +1,5 @@
 {
-  "name": "@dcat/googleapis",
+  "name": "@dcat23/googleapis",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
